@@ -1,0 +1,24 @@
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\bin\Debug\net8.0-windows\ADO Taskk 3.exe
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\bin\Debug\net8.0-windows\ADO Taskk 3.deps.json
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\bin\Debug\net8.0-windows\ADO Taskk 3.runtimeconfig.json
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\bin\Debug\net8.0-windows\ADO Taskk 3.dll
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\bin\Debug\net8.0-windows\ADO Taskk 3.pdb
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\obj\Debug\net8.0-windows\ADO Taskk 3.csproj.AssemblyReference.cache
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\obj\Debug\net8.0-windows\ADO_Taskk_3.Form1.resources
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\obj\Debug\net8.0-windows\ADO Taskk 3.csproj.GenerateResource.cache
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\obj\Debug\net8.0-windows\ADO Taskk 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\obj\Debug\net8.0-windows\ADO Taskk 3.AssemblyInfoInputs.cache
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\obj\Debug\net8.0-windows\ADO Taskk 3.AssemblyInfo.cs
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\obj\Debug\net8.0-windows\ADO Taskk 3.csproj.CoreCompileInputs.cache
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\obj\Debug\net8.0-windows\ADO Task.4A932076.Up2Date
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\obj\Debug\net8.0-windows\ADO Taskk 3.dll
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\obj\Debug\net8.0-windows\refint\ADO Taskk 3.dll
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\obj\Debug\net8.0-windows\ADO Taskk 3.pdb
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\obj\Debug\net8.0-windows\ADO Taskk 3.genruntimeconfig.cache
+C:\Users\Ibrahim\source\repos\ADO Taskk 3\ADO Taskk 3\obj\Debug\net8.0-windows\ref\ADO Taskk 3.dll
