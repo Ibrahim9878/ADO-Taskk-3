@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ADO Taskk 3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3e63f6bc51ec2504b08156f53a5fc64c6ce2bdd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ADO Taskk 3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ADO Taskk 3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

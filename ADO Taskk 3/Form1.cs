@@ -1,3 +1,4 @@
+using Microsoft.Extensions.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 
@@ -12,13 +13,12 @@ namespace ADO_Taskk_3
         SqlCommandBuilder cmd;
         DataTable table;
         SqlDataReader reader;
-        string cs = @"Server = (localdb)\MSSQLLocalDB; 
-Integrated Security = SSPI; 
-Database = Library";
+        string cs = string.Empty;
         public Form1()
         {
             InitializeComponent();
             conn = new();
+            GetConnectionStringFromJson();
             conn.ConnectionString = cs;
         }
 
@@ -55,6 +55,17 @@ Database = Library";
 
             }
             comboBox1.DataSource = combobox;
+        }
+        public void GetConnectionStringFromJson()
+        {
+            var builder = new ConfigurationBuilder();
+
+            builder.AddJsonFile("appsettings.json", optional: false, reloadOnChange: true);
+
+            var configuration = builder.Build();
+
+            var cons = configuration["ConnectionString"];
+            cs = cons!; 
         }
     }
 
